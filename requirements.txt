@@ -1,0 +1,10 @@
+# PDF processing
+PyMuPDF==1.23.8  # para fitz
+PyPDF2==3.0.1
+
+# Data manipulation
+pandas==2.2.0
+numpy==1.26.3  # dependencia común de pandas
+
+# Type hints
+typing-extensions==4.9.0 
